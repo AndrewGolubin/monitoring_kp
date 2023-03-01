@@ -40,3 +40,32 @@
 
 ![Рис1](https://user-images.githubusercontent.com/23739863/222130650-91841355-6a2f-4723-9355-12539679d96c.png)
 
+Контейнеры на cloud
+
+![Рис2](https://user-images.githubusercontent.com/23739863/222143624-0396e165-39b6-4a20-b24f-20861344179b.png)
+
+Сайт (пустая тема на wordpress)
+
+![Рис3](https://user-images.githubusercontent.com/23739863/222143813-6b8729af-0e04-458f-aaf7-05fffb500bdb.png)
+
+Контейнеры на virt2 (мониторинг)
+
+![Рис4](https://user-images.githubusercontent.com/23739863/222144106-36fe638e-c024-4fe5-a958-424b2f7b56dc.png)
+
+Контейнеры на Virt1 (логирование)
+
+![Рис5](https://user-images.githubusercontent.com/23739863/222147326-e138fc01-4ad2-4fd2-9e50-f09acb1e9835.png)
+
+Дашборды системной инфраструктуры и самого сайта
+
+![Рис6](https://user-images.githubusercontent.com/23739863/222147681-dfbb7fed-4fcf-4d35-af75-17042b3fb8ee.png)
+
+![Рис7](https://user-images.githubusercontent.com/23739863/222147801-9789dd57-2268-4ce9-9dc5-b160bac580f4.png)
+
+![Рис8](https://user-images.githubusercontent.com/23739863/222147846-9f534172-3edd-4c79-88f3-ca46aabb0379.png)
+
+Дашборды логирования
+
+![Рис9](https://user-images.githubusercontent.com/23739863/222147990-28c1405d-1fb8-4393-b8db-7107ed39915e.png)
+
+![Рис10](https://user-images.githubusercontent.com/23739863/222148064-fe86aa1e-b1ef-4b3f-9507-340501ef5df5.png)
