@@ -69,3 +69,8 @@
 ![Рис9](https://user-images.githubusercontent.com/23739863/222147990-28c1405d-1fb8-4393-b8db-7107ed39915e.png)
 
 ![Рис10](https://user-images.githubusercontent.com/23739863/222148064-fe86aa1e-b1ef-4b3f-9507-340501ef5df5.png)
+
+
+# Презентация
+[Защита проекта.pptx](https://github.com/AndrewGolubin/monitoring_kp/files/10861340/default.pptx)
+
